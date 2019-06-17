@@ -1,3 +1,3 @@
 # yandex-weather-parcer
 <br>Gets the current weather from yandex.ru/pogoda</br>
-Replace city = "Novosibirsk" with your city
+Replace <b>city = "Novosibirsk"</b> with your city
