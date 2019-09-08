@@ -1,3 +1,4 @@
 # Description
 <br>Gets the current weather data from yandex.ru/pogoda</br>
-Replace <b>city = "Novosibirsk"</b> in <b>parcer.py</b> with your city
+<br><b>Installation</b></br>
+Run setup.sh and follow the instructions
