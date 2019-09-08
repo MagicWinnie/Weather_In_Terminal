@@ -4,4 +4,4 @@ pip3 install bs4
 pip3 install lxml
 pip3 install geocoder
 echo "!!!Add path/to/parcer.py to .bashrc!!!"
-echo "Replace ""city = Novosibirsk"" in parcer.py with your city"
+echo "Replace \"city = Novosibirsk\" in parcer.py with your city"
