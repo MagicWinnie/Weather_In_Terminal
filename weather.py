@@ -6,7 +6,7 @@ import platform
 import numpy as np
 import pandas as pd
 import geocoder
-from coolterm import color
+# from coolterm import color
 from pyowm import OWM
 
 geolocation = False
